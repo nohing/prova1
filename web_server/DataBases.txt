@@ -1,0 +1,9 @@
+pasword hashes
+
+DBMS: 
+- PostGress: Relational DB
+i Relational DB usano SQL per comunicare tra frontend e backend, con il DB
+
+- MongoDB: Non Relational DB (NoSQL)
+it's a Document Oriented DB, registra le informazioni come documenti.
+Per comunicare con il db usa MongoDB query language
