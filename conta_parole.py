@@ -16,3 +16,6 @@ def last():
 last()
 7776 zoom\n
 
+
+#perché il secondo output è diverso??
+
